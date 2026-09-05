@@ -36,7 +36,7 @@ how things work under the hood.
 - 🛠️ I enjoy **building, breaking, debugging, and improving things**
 - 🤝 Open to collaborating on **interesting software & AI projects**
 - 💬 Ask me about **MERN, REST APIs, authentication, AI integrations & projects**
-- ⚡ Fun fact: **I start random projects just to see if I can make them work.**
+
 
 ---
 
@@ -127,8 +127,4 @@ A platform for managing student activities, approvals, certificates and portfoli
 
 </p>
 
----
 
-<p align="center">
-  <i>Build it. Break it. Figure it out. Build it better.</i>
-</p>
