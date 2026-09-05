@@ -40,39 +40,7 @@ how things work under the hood.
 
 ---
 
-## 🧰 Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,python,mysql" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -113,18 +81,5 @@ A platform for managing student activities, approvals, certificates and portfoli
 ---
 
 
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/yash-pawar-a79816270">
-  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:yashpawar93730@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yashpawar93730%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 
