@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yash-pawar-a79816270">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yashpawar93730@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/dev-yashpawar">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -24,10 +24,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer who likes turning random ideas into working products, 
+I'm a software developer who likes turning random ideas into working products,
 mostly just to see if I can make them work.
 
-I learn by building first, figuring things out along the way, and digging into 
+I learn by building first, figuring things out along the way, and digging into
 how things work under the hood.
 
 - 🔭 Currently working on **full-stack applications & AI-powered projects**
@@ -45,7 +45,7 @@ how things work under the hood.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,python,sql" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,python,mysql" />
 </p>
 
 ### Frontend
@@ -80,22 +80,17 @@ how things work under the hood.
 
 **AI-Powered Recruitment Platform**
 
-A full-stack recruitment platform designed around the hiring workflow.
+A full-stack recruitment platform built around the hiring workflow.
 
 **Highlights**
 - 🔐 JWT & OAuth 2.0 authentication
 - 👥 Role-based access control
 - 🧑‍💼 Candidate, Recruiter & Admin roles
-- 🔌 RESTful APIs
+- 🔌 10+ RESTful API endpoints
 - 🤖 AI-powered resume analysis
 - 📧 Automated email notifications
 
 **Stack:** React • Node.js • Express • MongoDB • Gemini API • JWT • OAuth 2.0
-
-<!-- Replace with your actual repository -->
-<a href="https://github.com/dev-yashpawar">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
 
 ---
 
@@ -115,37 +110,36 @@ A platform for managing student activities, approvals, certificates and portfoli
 
 **Stack:** React • Node.js • MongoDB • Supabase • Tailwind CSS
 
-<!-- Replace with your actual repository -->
-<a href="https://github.com/dev-yashpawar">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dev-yashpawar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=dev-yashpawar&show_icons=true&include_all_commits=true&hide_border=true"
     height="180"
     alt="Yash's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yashpawar&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yashpawar&layout=compact&langs_count=8&hide_border=true"
     height="180"
     alt="Yash's Top Languages"
   />
 </p>
 
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=dev-yashpawar&theme=transparent&hide_border=true"
-    alt="Yash's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=dev-yashpawar&hide_border=true"
+    alt="Yash's GitHub Contribution Streak"
   />
 </p>
+
+---
 
 ## 📈 Contribution Activity
 
@@ -154,15 +148,38 @@ A platform for managing student activities, approvals, certificates and portfoli
     src="https://github-readme-activity-graph.vercel.app/graph?username=dev-yashpawar&theme=github-compact&hide_border=true&area=true"
     alt="Yash's GitHub Contribution Activity"
   />
-</p> 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dev-yashpawar&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
 </p>
 
 ---
 
+## 🧠 Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,python,react" />
+</p>
+
+<p align="center">
+  <b>Backend Architecture • DevOps • AI/ML • Full-Stack Development</b>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yash-pawar-a79816270">
+  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yashpawar93730@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yashpawar93730%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Build it. Break it. Figure it out. Build it better.</i>
+</p>
