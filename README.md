@@ -112,57 +112,6 @@ A platform for managing student activities, approvals, certificates and portfoli
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dev-yashpawar&show_icons=true&include_all_commits=true&hide_border=true"
-    height="180"
-    alt="Yash's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yashpawar&layout=compact&langs_count=8&hide_border=true"
-    height="180"
-    alt="Yash's Top Languages"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dev-yashpawar&hide_border=true"
-    alt="Yash's GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dev-yashpawar&theme=github-compact&hide_border=true&area=true"
-    alt="Yash's GitHub Contribution Activity"
-  />
-</p>
-
----
-
-## 🧠 Currently Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,python,react" />
-</p>
-
-<p align="center">
-  <b>Backend Architecture • DevOps • AI/ML • Full-Stack Development</b>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
