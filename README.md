@@ -126,39 +126,35 @@ A platform for managing student activities, approvals, certificates and portfoli
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dev-yashpawar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=dev-yashpawar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     height="180"
+    alt="Yash's GitHub Stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yashpawar&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yashpawar&layout=compact&langs_count=8&hide_border=true&theme=transparent"
     height="180"
+    alt="Yash's Top Languages"
   />
 </p>
-
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=dev-yashpawar&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=dev-yashpawar&theme=transparent&hide_border=true"
+    alt="Yash's GitHub Streak"
   />
 </p>
-
----
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dev-yashpawar&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dev-yashpawar&theme=github-compact&hide_border=true&area=true"
+    alt="Yash's GitHub Contribution Activity"
   />
-</p>
-
----
-
+</p> 
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -170,15 +166,3 @@ A platform for managing student activities, approvals, certificates and portfoli
 
 ---
 
-## 🧠 Currently Exploring
-
-```text
-Backend Architecture
-        ↓
-REST APIs & Authentication
-        ↓
-Docker & DevOps
-        ↓
-AI / ML Integration
-        ↓
-Building better software
