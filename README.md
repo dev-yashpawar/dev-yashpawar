@@ -48,6 +48,9 @@ how things work under the hood.
 
 **AI-Powered Recruitment Platform**
 
+🌐 **[Live Demo](https://vertex-ai-job-portal.vercel.app)**  
+📂 **[Source Code](https://github.com/dev-yashpawar/VertexAI---JobPortal)**
+
 A full-stack recruitment platform built around the hiring workflow.
 
 **Highlights**
