@@ -68,6 +68,7 @@ A full-stack recruitment platform built around the hiring workflow.
 ### 🎓 Ascend
 
 **Centralized Student Activity Management Platform**
+🌐 **[Live Demo](https://ascend-liart.vercel.app/)**  
 
 A platform for managing student activities, approvals, certificates and portfolios.
 
